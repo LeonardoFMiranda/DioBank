@@ -15,7 +15,7 @@ import { login } from "./login"; // Substitua pelo caminho correto para o arquiv
 
 describe("login", () => {
   
-  const mockEmail = "leomiranda1997@gmail.com";
+  const mockEmail = "emailTeste@teste.com";
   const mockPassword = '123456'
   // const mockEmail = 'leomiranda1997@gmail.com'
   it("Deve exibir um alert com boas-vindas caso o email seja valido", async () => {
