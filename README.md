@@ -21,10 +21,6 @@ O DioBank oferece as seguintes funcionalidades principais:
 
 - **Login**: Entre no sistema com seu email e senha.
 - **Consulta de Saldo**: Verifique o saldo disponível em sua conta.
-- **Transferências**: Envie dinheiro para outras contas dentro do sistema.
-- **Extrato de Transações**: Visualize um histórico das transações realizadas em sua conta.
-- **Pagamento de Contas**: Efetue pagamentos de contas registradas.
-- **Configurações de Conta**: Atualize suas informações pessoais e senha.
 
 ## Tecnologias Utilizadas
 
