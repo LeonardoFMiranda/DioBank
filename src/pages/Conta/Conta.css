@@ -1,0 +1,11 @@
+.conta__container{
+    height: 60vh;
+    font-family: "Open Sans", sans-serif;
+}
+
+.carousel.carousel-slider .control-arrow:hover {
+    background-color: transparent !important;
+}
+
+
+  

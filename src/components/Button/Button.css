@@ -1,0 +1,38 @@
+.login__button {
+    width: 100%;
+    margin: 3.3rem auto 2.2rem;
+    border-radius: 30px;
+    border: 0px;
+    padding: 0.6rem 1.5rem;
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    background: rgb(134, 71, 173);
+    color: rgb(255, 255, 255);
+    position: relative;
+    cursor: pointer;
+    transition: all 0.2s ease 0s;
+  }
+  .login__button:hover {
+    background-color: rgb(134, 71, 173);
+    box-shadow: rgb(134 71 173) 0px 0px 48px 0px;
+  }
+  .login__button:active {
+    transform: scale(0.9);
+  }
+
+.primaryButton{
+    margin-top: 1rem;
+    background: rgb(134, 71, 173);
+    color: rgb(255, 255, 255);
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 0.6rem 1.5rem;
+    border-radius: 30px;
+    border: 0px;
+    transition: all 0.2s ease 0s;
+}
+.primaryButton:active {
+    transform: scale(0.9);
+  }

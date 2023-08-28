@@ -1,0 +1,23 @@
+.header {
+    background-color: #1f182c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    height: 200px;
+    color: #fff;
+}
+.header img{
+    width: 230px;
+    height: 100px;
+    
+}
+.header h1{
+    font-size: 5rem;
+    font-family: 'Anton', sans-serif;
+    color: transparent;
+    background: -webkit-linear-gradient(left, #2EAAE1, #4A63A9, #56509A, #E94D5F);
+    -webkit-background-clip: text;
+    margin: 0;
+
+}

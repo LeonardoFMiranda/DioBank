@@ -1,0 +1,41 @@
+
+.card__container {
+  display: flex;
+  justify-content: center;
+  gap: 140px;
+}
+.card__01 {
+  font-family: "DM Sans", sans-serif;
+  color: #fff;
+}
+.login__form {
+  font-family: "Open Sans", sans-serif;
+  color: #fff;
+  max-width: 26rem;
+  padding: 0;
+}
+.login__title {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  font-weight: 800;
+}
+.login__subtitle {
+  margin-bottom: 2rem;
+}
+
+
+.login__input input {
+  border: none;
+  border-bottom: 1px solid rgb(59, 52, 80);
+
+  margin-bottom: 20px;
+}
+.login__input input::placeholder {
+  color: #fff;
+}
+
+.form__input:focus-visible {
+    border-bottom: 1px solid rgb(59, 52, 80) !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
