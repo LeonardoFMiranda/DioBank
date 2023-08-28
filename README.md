@@ -1,46 +1,33 @@
-# Getting Started with Create React App
+# DioBank - Sistema Bancário Fictício
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+O DioBank é um sistema bancário fictício criado como parte de um projeto para demonstrar habilidades de desenvolvimento web. Este projeto simula as funcionalidades básicas de um banco, como login, consulta de saldo, transferências e muito mais.
 
-## Available Scripts
+# Visualizar Online
 
-In the project directory, you can run:
+https://diobanks.netlify.app/
 
-### `npm start`
+## Acesso ao Sistema
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Para acessar o sistema, você pode usar as seguintes credenciais fictícias:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Email: emailTeste@teste.com
+- Senha: 123456
 
-### `npm test`
+Certifique-se de que este é um ambiente de teste e não uma aplicação bancária real.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Funcionalidades
 
-### `npm run build`
+O DioBank oferece as seguintes funcionalidades principais:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Login**: Entre no sistema com seu email e senha.
+- **Consulta de Saldo**: Verifique o saldo disponível em sua conta.
+- **Transferências**: Envie dinheiro para outras contas dentro do sistema.
+- **Extrato de Transações**: Visualize um histórico das transações realizadas em sua conta.
+- **Pagamento de Contas**: Efetue pagamentos de contas registradas.
+- **Configurações de Conta**: Atualize suas informações pessoais e senha.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Tecnologias Utilizadas
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+O DioBank foi desenvolvido utilizando as seguintes tecnologias:
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **Frontend**: HTML, CSS, JavaScript
